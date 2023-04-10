@@ -14,15 +14,15 @@
     "react": "18.2.0",
     "react-hook-form": "^7.43.9",
     "react-native": "0.71.3",
-    "react-native-vector-icons": "^4.6.0"
+    "react-native-vector-icons": "^8.1.0"
   },
   "dependencies": {
     "lodash": "^4.17.10",
     "moment": "^2.22.1",
     "prop-types": "^15.6.1",
     "react-native-datepicker": "^1.7.2",
-    "react-native-material-ui": "^1.22.3",
-    "react-native-multiple-select": "^0.4.4",
+    "@protonapp/react-native-material-ui": "^2.0.7",
+    "react-native-multiple-select": "^0.5.12",
     "react-native-star-rating": "^1.0.9"
   },
   "devDependencies": {
